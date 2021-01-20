@@ -1,4 +1,4 @@
-ckagename>
+mypkg
 <Description of what the package does>
 ## Usage
 Install the package using npm :
