@@ -1,0 +1,19 @@
+{
+  "name": "mypkg",
+  "version": "1.0.0",
+  "description": "This is my pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramanhira10/mypkg.git"
+  },
+  "author": "Raman Hira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramanhira10/mypkg/issues"
+  },
+  "homepage": "https://github.com/ramanhira10/mypkg#readme"
+}
